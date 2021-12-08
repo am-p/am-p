@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Smart Contracts**
 
-- 🌱 I’m currently learning **NFT,Hardhat,Keras and Rust**
+- 🌱 I’m currently learning **NFT, Hardhat, Keras and Rust**
 
-- 👯 I’m looking to collaborate on **Etherum**
+- 👯 I’m looking to collaborate on **Ethereum**
 
 - 📫 How to reach me **adoorno@gmail.com**
 

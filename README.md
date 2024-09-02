@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ariel Pardo</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Smart Contracts**
+- 🔭 I’m currently working on **NestJS & GO**
 
-- 🌱 I’m currently learning **NFT, Hardhat, Keras and Rust**
+- 🌱 I’m currently learning **Arduino and Rust**
 
-- 👯 I’m looking to collaborate on **Ethereum**
+- 👯 I’m looking to collaborate on **Emacs**
 
 - 📫 How to reach me **adoorno@gmail.com**
 

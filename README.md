@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ariel Pardo</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">Backend Developer</h3>
 
-- 🔭 I’m currently working on **NestJS & GO**
+- 🔭 I’m currently working on **TS & GO**
 
 - 🌱 I’m currently learning **Arduino and Rust**
-
-- 👯 I’m looking to collaborate on **Emacs**
 
 - 📫 How to reach me **adoorno@gmail.com**
 
